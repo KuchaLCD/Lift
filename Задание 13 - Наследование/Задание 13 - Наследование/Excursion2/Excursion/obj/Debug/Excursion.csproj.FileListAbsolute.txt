@@ -1,0 +1,18 @@
+C:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion\Excursion\bin\Debug\Excursion.exe
+C:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion\Excursion\bin\Debug\Excursion.pdb
+C:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion\Excursion\obj\Debug\Excursion.csprojAssemblyReference.cache
+C:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion\Excursion\obj\Debug\Excursion.csproj.CoreCompileInputs.cache
+C:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion\Excursion\obj\Debug\Excursion.exe
+C:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion\Excursion\obj\Debug\Excursion.pdb
+c:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion2\Excursion\bin\Debug\Excursion.exe
+c:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion2\Excursion\bin\Debug\Excursion.pdb
+c:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.csprojAssemblyReference.cache
+c:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.csproj.CoreCompileInputs.cache
+c:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.exe
+c:\2020 - ООП\ЛАБОРАТОРНЫЕ РАБОТЫ\Работа # 12 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.pdb
+C:\Users\nariv.v\Downloads\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\bin\Debug\Excursion.exe
+C:\Users\nariv.v\Downloads\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\bin\Debug\Excursion.pdb
+C:\Users\nariv.v\Downloads\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.csproj.AssemblyReference.cache
+C:\Users\nariv.v\Downloads\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.csproj.CoreCompileInputs.cache
+C:\Users\nariv.v\Downloads\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.exe
+C:\Users\nariv.v\Downloads\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.pdb
