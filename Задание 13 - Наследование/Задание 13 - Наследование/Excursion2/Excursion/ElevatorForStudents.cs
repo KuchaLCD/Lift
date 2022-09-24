@@ -16,25 +16,44 @@ namespace Excursion
         public List<Person> StudentQueue { get { return studentQueue; } }
         public int CountPersonsInElevator { get { return StudentQueue.Count; } }
         //Методы
-        public void AddingPersonToElevator(int position)
+        public void AddingPersonToElevatorSTU(Person p)
         {
-            StudentQueue.Insert(position, Person);
+            StudentQueue.Add(p);
         }
-        public void RemovingPersonFromElevator(int position)
+        public void RemovingPersonFromElevatorSTU(Person p)
         {
-            StudentQueue.Remove(position, Person);
+            StudentQueue.Remove(p);
         }
-        public string AboutLS()
+        public void AboutSTU()
         {
-            string inf = $"\nЛифт\nимя: {nameElevator}" +
+            string inf = $"\nЛифт (студенческий)\nимя: {nameElevator}" +
                          $"\nМаксимальная загруженность: {maxWeight}";
             inf = inf + $"\nСтуденты в студенческом лифте:";
+            Console.WriteLine(inf);
+            double sum = 0;
+            //Подсчёт веса
             for (int i = 0; i < StudentQueue.Count; i++)
             {
-                Console.WriteLine(StudentQueue[i].InfoString());
+                sum += StudentQueue[i].Mass;
             }
-
-            return inf;
+            //Вывод информации о лифте 
+            for (int i = 0; i < StudentQueue.Count; i++)
+            {
+                if (CountPersonsInElevator == 0)
+                {
+                    Console.WriteLine("Лифт пуст");
+                    break;
+                }
+                if (sum >= maxWeight)
+                {
+                    Console.WriteLine("Лифт переполнен");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine(StudentQueue[i].InfoString());
+                }
+            }
         }
         public ElevatorForStudents(string nameElevator, double maxWeight, List<Person> studentQueue)
         {
@@ -42,6 +61,5 @@ namespace Excursion
             this.maxWeight = maxWeight;
             this.studentQueue = studentQueue;
         }
-
     }
 }

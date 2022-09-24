@@ -18,8 +18,8 @@ namespace Excursion
 
         // Конструктор
         // Поля name, dateBirth, sex - наследуемые
-        public Student(string name, DateTime dateBirth, string sex, decimal scolarship)
-             : base(name, dateBirth, sex)
+        public Student(string name, DateTime dateBirth, string sex, double mass, decimal scolarship)
+             : base(name, dateBirth, sex, mass)
         {
             this.scolarship = scolarship;
         }

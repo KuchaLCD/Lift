@@ -10,17 +10,16 @@ namespace Excursion
         string name;
         DateTime dateBirth;
         string sex;
+        double mass;
 
         // 3 свойства
         public string Name
         { get { return name; } }
-
         public DateTime DateBirth
         { get { return dateBirth; } }  
-
         public string Sex
         { get { return sex; } }
-
+        public double Mass { get { return mass; } }
         // Метод: информационная строка
         public virtual string InfoString()
         {
@@ -34,11 +33,12 @@ namespace Excursion
         }
 
         // Конструктор
-        public Person(string name, DateTime dateBirth, string sex)
+        public Person(string name, DateTime dateBirth, string sex, double mass)
         {
             this.name = name;
             this.dateBirth = dateBirth;
-            this.sex = sex; 
+            this.sex = sex;
+            this.mass = mass;
         }
     }
 }

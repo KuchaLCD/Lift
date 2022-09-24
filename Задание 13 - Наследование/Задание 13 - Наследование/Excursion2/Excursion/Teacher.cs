@@ -18,8 +18,8 @@ namespace Excursion
 
         // Конструктор
         // Поля name, dateBirth, sex - наследуемые
-        public Teacher(string name, DateTime dateBirth, string sex, int workExperience)
-             : base(name, dateBirth, sex)
+        public Teacher(string name, DateTime dateBirth, string sex, double mass, int workExperience)
+             : base(name, dateBirth, sex, mass)
         {
             this.workExperience = workExperience;
         }

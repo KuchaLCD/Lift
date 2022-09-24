@@ -16,3 +16,9 @@ C:\Users\nariv.v\Downloads\Задание 13 - Наследование\Зада
 C:\Users\nariv.v\Downloads\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.csproj.CoreCompileInputs.cache
 C:\Users\nariv.v\Downloads\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.exe
 C:\Users\nariv.v\Downloads\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.pdb
+C:\Users\CATAT\Documents\Downloads\Lift\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\bin\Debug\Excursion.exe
+C:\Users\CATAT\Documents\Downloads\Lift\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\bin\Debug\Excursion.pdb
+C:\Users\CATAT\Documents\Downloads\Lift\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.csproj.AssemblyReference.cache
+C:\Users\CATAT\Documents\Downloads\Lift\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.csproj.CoreCompileInputs.cache
+C:\Users\CATAT\Documents\Downloads\Lift\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.exe
+C:\Users\CATAT\Documents\Downloads\Lift\Задание 13 - Наследование\Задание 13 - Наследование\Excursion2\Excursion\obj\Debug\Excursion.pdb
