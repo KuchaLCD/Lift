@@ -52,7 +52,7 @@ namespace Excursion
             teacherQueue.Add(tc1);
 
             ElevatorForStudents StudElevator = new ElevatorForStudents("STU", 230, studentQueue);
-            ElevatorForTeachers TeachElevator = new ElevatorForTeachers("TEA", 240, teacherQueue)
+            ElevatorForTeachers TeachElevator = new ElevatorForTeachers("TEA", 240, teacherQueue);
             //test output
 
             StudElevator.AboutSTU();
