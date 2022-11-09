@@ -26,7 +26,7 @@ namespace Excursion
         }
         public void AboutTEA()
         {
-            string inf = $"\nЛифт (преподавательский)\nимя: {nameElevator}" +
+            string inf = $"++++++++++++++++++++++++++++++++++++++++++++++++++\nЛифт (преподавательский)\nимя: {nameElevator}" +
                           $"\nМаксимальная загруженность: {maxWeight}";
             inf = inf + $"\nПреподватели в преподовательском лифте:";
             Console.WriteLine(inf);

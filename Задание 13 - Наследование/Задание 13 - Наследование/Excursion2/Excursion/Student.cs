@@ -27,12 +27,13 @@ namespace Excursion
         // Переопределяем метод базового класса InfoString()
         public override string InfoString()
         {
-            string inf = $"\nСтудент\nимя: {Name}" +
+            string inf = $"\n:::::::::::::::::::::::::::::::::\nСтудент\nимя: {Name}" +
                  $"\nдата рождения: {DateBirth.ToShortDateString()}" +
                  $"\nпол: {Sex}";
 
             // Новая информационная строка
-            inf = inf + $"\nСтипендия: {scolarship} BYN";
+            inf = inf + $"\nСтипендия: {scolarship} BYN" +
+                        $"\n:::::::::::::::::::::::::::::::::";
             return inf;
         }
     }

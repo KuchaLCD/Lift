@@ -26,7 +26,7 @@ namespace Excursion
         }
         public void AboutSTU()
         {
-            string inf = $"\nЛифт (студенческий)\nимя: {nameElevator}" +
+            string inf = $"=======================================================\nЛифт (студенческий)\nимя: {nameElevator}" +
                          $"\nМаксимальная загруженность: {maxWeight}";
             inf = inf + $"\nСтуденты в студенческом лифте:";
             Console.WriteLine(inf);
